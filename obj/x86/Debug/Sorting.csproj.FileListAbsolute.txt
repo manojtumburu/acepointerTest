@@ -1,0 +1,5 @@
+D:\T V MANOJ KUMAR\Source code\R & D & Samples\Sorting\Sorting\bin\Debug\Sorting.exe
+D:\T V MANOJ KUMAR\Source code\R & D & Samples\Sorting\Sorting\bin\Debug\Sorting.pdb
+D:\T V MANOJ KUMAR\Source code\R & D & Samples\Sorting\Sorting\obj\x86\Debug\Sorting.exe
+D:\T V MANOJ KUMAR\Source code\R & D & Samples\Sorting\Sorting\obj\x86\Debug\Sorting.pdb
+D:\T V MANOJ KUMAR\Source code\R & D & Samples\Sorting\Sorting\obj\x86\Debug\Sorting.csprojResolveAssemblyReference.cache
